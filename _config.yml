@@ -7,5 +7,5 @@ twitter_username: ademideo_
 github_username:  midanet
 
 # Build settings
-markdown: kramdow
+markdown: kramdown
 theme: minima
