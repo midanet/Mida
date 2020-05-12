@@ -12,4 +12,6 @@ Reasons:
 
 ## Other thoughts
 
-`print("Mida")`
+```Python
+print("Mida")
+```
