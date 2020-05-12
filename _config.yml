@@ -1,0 +1,11 @@
+# basic options
+title: Test Build
+author: Mida
+email: midanwrk@gmail.com
+description: A wonderful site
+twitter_username: ademideo_
+github_username:  midanet
+
+# Build settings
+markdown: kramdow
+theme: minima
